@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 1,
       "messages": [
-        "I'm a regular player",
-        "/register Nemamheslo2x Nemamheslo2x",
-        "I like to play Minecraft!"
+        "/login Nemamheslo2x Nemamheslo2x"
+        
       ]
     },
     "chat-log": true,
