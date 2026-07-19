@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kebabworld.aternos.me:39664",
+    "ip": "kebabworld.aternos.me",
     "port": 39664,
     "version": "",
     "try-creative": false
